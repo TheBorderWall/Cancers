@@ -1,4 +1,4 @@
-class Demo 
+class CountingLetters 
 {
 
 public static void main(String[] args) throws Exception {
