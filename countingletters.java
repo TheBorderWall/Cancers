@@ -2,7 +2,10 @@ class Demo
 {
 
 public static void main(String[] args) throws Exception {
-    final String sentence = "   Insert your sentence here. If you press run, the program will count this sentence.";
+  String sentence;
+  System.out.println("Type your sentence please.");
+  sentence = In.getString();
+    
     System.out.println(countletters(sentence));
 }
 
