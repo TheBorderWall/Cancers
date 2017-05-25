@@ -1,7 +1,8 @@
 import java.util.Scanner;
  
 public class CapitalizeEveryWord {
- 
+  //This program Capitalizes the first letter of every word the user enters
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a sentence: ");
