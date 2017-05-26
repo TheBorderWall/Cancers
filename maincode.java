@@ -2,7 +2,8 @@ class Demo
 {
   public static void main (String[] args)
   {
-//heres a comment
+//here's a comment
+    //* and here's another comment //*
 }
 
 
